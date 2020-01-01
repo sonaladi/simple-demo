@@ -1,2 +1,3 @@
-# simple-demo
-This repo is for learning purpose
+# simple-Example Repo
+
+# just foe learn
